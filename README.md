@@ -10,3 +10,5 @@ truncator.py: extracts a section of the FTIR spectrum, based on data index. (a v
 plot_transferulic_v1.py: very basic plotting script, each datafile is loaded individually
 
 plotter.py: more sophisticated plotting script, accepts the folder containing datafiles as an argument, normalizes them to the largest peak in each and plots them with a specified offset.
+
+[Source code](https://github.com/drwrenmontgomery/HiPressureFTIR)
